@@ -1,3 +1,5 @@
+# forked from [Lencerf/vscode-beancount](https://github.com/Lencerf/vscode-beancount)
+
 # VSCode-Beancount
 
 VSCode extension for the text-based double-entry accounting tool [Beancount](http://furius.ca/beancount/)
